@@ -34,4 +34,4 @@ pep8编码规范
 
 * Process
 	from multiprocessing import Process
-![Process用法](/Process.PNG)
+![Process用法](\Process.PNG)
